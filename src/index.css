@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+Canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+/* styles/VideoParallax.css */
+html {
+  scroll-behavior: smooth;
+}
+
+/* :root {
+  --leva-sizes-rootWidth: 300px;
+} */
+
+/* #root {
+  width: 100vw;
+  height: 100vh;
+} */
+/* :root {
+  --leva-sizes-rootWidth: 340px;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  background-color: #e6eeff;
+  background-image: linear-gradient(19deg, #e6eeff 0%, #ddd6f3 100%);
+}
+
+body.greenScreen {
+  background-color: #00ff00;
+  background-image: none;
+}
+
+video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+  will-change: transform, opacity;
+  backface-visibility: hidden;
+  perspective: 1000px;
+} */
