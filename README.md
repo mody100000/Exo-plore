@@ -22,8 +22,11 @@ Through generative AI technology, users can ask questions related to the exoplan
 The app employs a Retrieval-Augmented Generation (RAG) framework to ensure accurate and contextually relevant responses. Technologies include:
 
 LangChain for managing AI workflows.
+
 Pinecone for vector-based search.
+
 OpenAI embeddings for semantic understanding of text.
+
 ChatGPT for generating intelligent, user-friendly answers.
 
 This application serves as an educational tool, offering users a unique way to explore and learn about exoplanets and the technologies used to discover them. By merging 3D visualization with AI-driven interactivity, the app inspires curiosity and fosters a deeper appreciation for space exploration and astronomy.
