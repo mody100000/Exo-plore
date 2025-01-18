@@ -2,8 +2,6 @@
 
 [Short Video Version](https://drive.google.com/file/d/1ebv4sDtbrrAP7pzEj27xLnwUEtkS8baV/view?usp=sharing)
 
-Based on the additional details you've shared, here's an updated professional description of your app:
-
 Exo-plore App for NASA Space Apps Challenge
 
 Our application blends advanced 3D rendering and AI-driven conversational capabilities to create an interactive and educational platform focused on exoplanets. This innovative app allows users to explore information about exoplanets through a virtual telescope and engage in dynamic Q&A sessions.
